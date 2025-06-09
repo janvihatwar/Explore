@@ -1,4 +1,4 @@
-# Explore Website 🌍
+[# Explore Website 🌍](https://janvihatwar.github.io/Explore/)
 
 This is a simple static website built using **HTML** and **CSS**.  
 The website showcases an "Explore" theme with sections that are clean, responsive, and visually engaging.
